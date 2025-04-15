@@ -1,0 +1,17 @@
+.venv
+.vscode
+.pytest_cache
+.ipynb_checkpoints
+__pycache__
+
+NOLAN_wiki/GoogleNews-vectors-negative300.bin.gz
+
+/data/dataset_v1.csv
+/data/tokenized_data_v1.csv
+/data/tokenized_data_v2.csv
+/data/dataset_v2.txt
+/data/dataset_v2.csv
+/data/tokenized_data_v3.csv
+/data/tokenized_data_v3_temp.csv
+
+checkpoints/
